@@ -11,20 +11,14 @@ Currently I am Working on Wasitav Limited as a Chief Executive Officer. I have a
 
 Here are some of the programming languages, tools, and technologies I'm proficient in:
 
-- Full-Stack Web Development
-- Blockchain
-- Python
-- Django
-- JavaScript
-- HTML/CSS
-- React
-- SQL
-- Solidity
-- Domain Name System (DNS)
-- Linux
-- Cloud Service
-- R (Programming Language)
-- C (Programming Language)
+- Language: Python, Javascript, R, Solidity, SQL
+- Frontend Development: React, HTML/CSS, Javascript, Bootstrap, SCSS, MUI
+- Backend Development: Django, Python, SQL
+- Cloud: Linux Server, AWS, Azure
+- Blockchain: Solidity, Web3-Js, React
+- Data Science: Python, Pandas, Numpy, Matplotlib, Scipy
+- Statistics: Statistics, Mathmatics, Linear Algebra
+- DNS: Domain, NFT Domain
 
 </br>
 
