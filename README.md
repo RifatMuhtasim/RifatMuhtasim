@@ -62,7 +62,7 @@ If you have any questions, want to discuss potential opportunities, or just want
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rifat-muhtasim)
 - Facebook: [My Facebook ID](https://www.facebook.com/khandokar.rifat.muhtasim)
 - Instagram: [Instagram Profile](https://www.instagram.com/rifat.muhtasim)
-- Twitter: [Twitter Account](https://twitter.com/RifatMuhtasim)
+- Twitter: [Twitter Account](https://twitter.com/MdRifatMuhtasim)
 
 Thank you for visiting my portfolio repository! I look forward to connecting and collaborating with you.
 
