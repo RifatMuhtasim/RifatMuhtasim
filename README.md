@@ -68,34 +68,14 @@ Here are some of the programming languages, tools, and technologies I'm proficie
 <br />
 <!-- my languages section ends here  -->
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [GitHub Profile](#github-profile)
-- [Portfolio Contents](#portfolio-contents)
-- [Usage](#usage)
-- [Contact Information](#contact-information)
-
-## Introduction
-
-This repository combines my GitHub profile and a detailed portfolio to provide insights into my journey as a developer. Whether you're a potential employer, collaborator, or fellow developer, this README.md file will guide you through the contents and purpose of this repository.
-
-## GitHub Profile
-
-You can explore my GitHub activity, repositories, and contributions directly on my [GitHub Profile](https://www.github.com/RifatMuhtasim?tab=repositories).
-
-## Portfolio Contents
-
-### Projects
+## Projects
 
 - **Data Science**: [Python for Data Science](https://github.com/RifatMuhtasim/Python_for_Data_Science), [Statistics](https://github.com/RifatMuhtasim/Statistical_Calculation)
 - **GENESIEX Web3 Stock Market**: [Web3 Stock Market](https://github.com/RifatMuhtasim/GENESIEX_Web3_Stock_Market)
 - **Web Application**: [React](https://github.com/RifatMuhtasim/React_Web_Series), [Django](https://github.com/RifatMuhtasim/Django_Web_Series)
 
-
-## Usage
-
-Explore this repository to gain insights into my skills and experience as a developer. Use the provided links to access specific projects, certifications, blog posts, and more.
+<br />
 
 ## Contact Information
 
