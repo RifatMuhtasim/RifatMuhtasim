@@ -27,6 +27,18 @@ Here are some of the programming languages, tools, and technologies I'm proficie
 - R (Programming Language)
 - C (Programming Language)
 
+## Experience
+| Title                              | Company Name           | Start          | End           | 
+|------------------------------------|------------------------|----------------|---------------|
+| Chief Technology Officer           | Wasiname               | Mar 2023       | Present       | 
+| Chairman                           | Wasitav Limited        | Mar 2023       | Present       | 
+| Chief Blockchain Officer           | GENESIEX               | Feb 2022       | Nov 2022      | 
+| Chief Executive Officer            | Wasiname               | May 2021       | Feb 2023      | 
+| President                          | Pray4Refugees          | March 2021     | Present       | 
+| Founder & Entrepreneur             | Wasitav Limited        | May 2020       | Present       | 
+
+</br>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -68,7 +80,7 @@ If you have any questions, want to discuss potential opportunities, or just want
 
 Thank you for visiting my portfolio repository! I look forward to connecting and collaborating with you.
 
-
+</br>
 
 
 <!--
