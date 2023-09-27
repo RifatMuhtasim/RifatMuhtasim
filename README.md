@@ -1,3 +1,5 @@
+<img src="wasitav_rifat.png" alt="Chief Techonology Officer at Wasitav Limited" />
+
 ### Hi there 👋
 
 Welcome to my GitHub Profile! There i showcase my work, skills, and contributions as a developer.
