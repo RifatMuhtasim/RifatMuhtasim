@@ -39,6 +39,8 @@ Here are some of the programming languages, tools, and technologies I'm proficie
 | Founder & Entrepreneur             | Wasitav Limited        | May 2020       | Present       | 
 
 
+<br />
+<!-- work experience section ends here  -->
 
 <!-- education section starts here  -->
 ### 👨🏻‍🎓 &nbsp; Education
