@@ -4,7 +4,7 @@ Welcome to my GitHub Profile! There i showcase my work, skills, and contribution
 
 Currently I am Working on Wasitav Limited as a Chief Executive Officer. I have a lot's of experience at Full-Stack Web Developlment. I wanted to learn Data Science.
 
-### [Let's Connect on Linkedin](https://www.linkdin.com/in/rifat-muhtasim)
+### [Let's Connect on Linkedin](https://www.linkedin.com/in/rifat-muhtasim)
 
 ## Skills
 
@@ -59,7 +59,7 @@ Explore this repository to gain insights into my skills and experience as a deve
 If you have any questions, want to discuss potential opportunities, or just want to connect, feel free to reach out to me:
 
 - Email: [md.rifat.muhtasim@gmail.com](mailto:md.rifat.muhtasim@gmail.com)
-- LinkedIn: [My LinkedIn Profile](https://www.linkdin.com/in/rifat-muhtasim)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/rifat-muhtasim)
 - Facebook: [My Facebook ID](https://www.facebook.com/khandokar.rifat.muhtasim)
 - Instagram: [Instagram Profile](https://www.instagram.com/rifat.muhtasim)
 - Twitter: [Twitter Account](https://twitter.com/RifatMuhtasim)
