@@ -1,12 +1,11 @@
 <img src="wasitav_rifat.png" alt="Chief Techonology Officer at Wasitav Limited" />
 
-### Hi there 👋
+### Hello, I am Khandokar Rifat Muhtasim 👋
 
-Welcome to my GitHub Profile! There i showcase my work, skills, and contributions as a developer.
-
+Welcome to my GitHub Profile! There i showcase my work, skills, and contributions as a developer. </br>
 Currently I am Working on Wasitav Limited as a Chief Executive Officer. I have a lot's of experience at Full-Stack Web Developlment. I wanted to learn Data Science.
-
 ### [Let's Connect on Linkedin](https://www.linkedin.com/in/rifat-muhtasim)
+<br />
 
 ## Skills
 
@@ -27,6 +26,8 @@ Here are some of the programming languages, tools, and technologies I'm proficie
 - R (Programming Language)
 - C (Programming Language)
 
+</br>
+
 ## Experience
 | Title                              | Company Name           | Start          | End           | 
 |------------------------------------|------------------------|----------------|---------------|
@@ -37,7 +38,33 @@ Here are some of the programming languages, tools, and technologies I'm proficie
 | President                          | Pray4Refugees          | March 2021     | Present       | 
 | Founder & Entrepreneur             | Wasitav Limited        | May 2020       | Present       | 
 
-</br>
+
+
+<!-- education section starts here  -->
+### 👨🏻‍🎓 &nbsp; Education
+
+1. Bachelor's of Science, Statistics </br>
+   Shahjalal University of Science & Technology  
+   Sylhet, Bangladesh.
+3. HSC, Science Group </br>
+   Jalalabad Cantonment Public School & College</br> 
+   Sylhet, Bangladesh
+4. SSC, Science Group </br> 
+   Jalalabad Cantonment Public School & College</br> 
+   Sylhet, Bangladesh
+<!-- education section ends here  -->
+<br />
+
+<!-- my languages section starts here  -->
+### Languages:
+
+- 🇧🇩 Bangla : Native
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
+- 🇮🇳 Hindi : Intermediate
+- 🇩🇪 German : Basic
+
+<br />
+<!-- my languages section ends here  -->
 
 ## Table of Contents
 
