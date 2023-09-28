@@ -1,3 +1,0 @@
-Welcome to MyGitHubPortfolio! 
-This repository serves as a comprehensive showcase of my work, skills, and contributions. 
-It combines my GitHub profile and a detailed portfolio to provide insights into my journey as a developer and more.
