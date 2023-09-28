@@ -11,7 +11,7 @@ Currently I am Working on Wasitav Limited as a Chief Executive Officer. I have a
 
 Here are some of the programming languages, tools, and technologies I'm proficient in:
 
-- **Language:** Python, Javascript, R, Solidity, SQL
+- **Programming Language:** Python, Javascript, R, Solidity, SQL
 - **Frontend Development:** React, HTML/CSS, Javascript, Bootstrap, SCSS, MUI
 - **Backend Development:** Django, Python, SQL
 - **Cloud:** Linux Server, AWS, Azure
