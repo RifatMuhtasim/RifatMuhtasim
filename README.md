@@ -25,12 +25,12 @@ Here are some of the programming languages, tools, and technologies I'm proficie
 ## Experience
 | Title                              | Company Name           | Start          | End           | 
 |------------------------------------|------------------------|----------------|---------------|
-| Chief Technology Officer           | Wasiname               | Mar 2023       | Present       | 
-| Chairman                           | Wasitav Limited        | Mar 2023       | Present       | 
+| Chief Executive Officer           | Xploreto               | Aug 2025       | Present       |
+| Chief Technology Officer           | Wasiname               | Mar 2023       | Dec 2024       | 
 | Chief Blockchain Officer           | GENESIEX               | Feb 2022       | Nov 2022      | 
 | Chief Executive Officer            | Wasiname               | May 2021       | Feb 2023      | 
 | President                          | Pray4Refugees          | March 2021     | Present       | 
-| Founder & Entrepreneur             | Wasitav Limited        | May 2020       | Present       | 
+
 
 
 <br />
