@@ -3,7 +3,7 @@
 ### Hello, I am Khandokar Rifat Muhtasim 👋
 
 Welcome to my GitHub Profile! There i showcase my work, skills, and contributions as a developer. </br>
-Currently I am Working on Wasitav Limited as a Chief Executive Officer. I have a lot's of experience at Full-Stack Web Developlment. I wanted to learn Data Science.
+Currently I am Working on Xploreto Limited as a Chief Executive Officer. I have a lot's of experience at Full-Stack Web Developlment. I wanted to learn Data Science.
 ### [Let's Connect on Linkedin](https://www.linkedin.com/in/rifat-muhtasim)
 <br />
 
