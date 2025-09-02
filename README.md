@@ -25,7 +25,7 @@ Here are some of the programming languages, tools, and technologies I'm proficie
 ## Experience
 | Title                              | Company Name           | Start          | End           | 
 |------------------------------------|------------------------|----------------|---------------|
-| Chief Executive Officer           | Xploreto               | Aug 2025       | Present       |
+| Chief Executive Officer           | Xploreto               | Sep 2025       | Present       |
 | Chief Technology Officer           | Wasiname               | Mar 2023       | Dec 2024       | 
 | Chief Blockchain Officer           | GENESIEX               | Feb 2022       | Nov 2022      | 
 | Chief Executive Officer            | Wasiname               | May 2021       | Feb 2023      | 
